@@ -37,7 +37,7 @@ const loadNode = (
       } else {
         return reject()
       }
-    }, 3000)
+    }, 1000)
   }
 }
 </script>
